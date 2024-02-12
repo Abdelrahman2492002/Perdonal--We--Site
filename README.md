@@ -37,3 +37,5 @@ Contributions to this project are welcome. Please follow these steps to contribu
 ## Acknowledgments
 - Thanks to "AlMadrasa" platform for providing the learning resources that helped in completing this project.
 - Special thanks to all open source contributors whose code was used or inspired the development of this project.
+
+#Autor: Abedlrahman Esmail
